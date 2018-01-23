@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 304.1 206.3" style="enable-background:new 0 0 304.1 206.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FCF262;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#FCF262;}
+	.st2{display:none;}
+	.st3{display:inline;}
+	.st4{fill:none;stroke:#FCF262;stroke-width:20;stroke-linejoin:round;}
+	.st5{fill:none;stroke:#FCF262;stroke-width:20;stroke-linejoin:round;stroke-dasharray:4.1928,37.7349,4.1928,25.1566;}
+	
+		.st6{fill:none;stroke:#FCF262;stroke-width:20;stroke-linejoin:round;stroke-dasharray:4.1928,12.5783,4.1928,37.7349,4.1928,25.1566;}
+	.st7{fill:none;stroke:#FCF262;stroke-width:2.1985;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<polyline class="st0" points="52.1,132.2 89.4,178.7 118,178.7 		"/>
+		<g>
+			<path class="st1" d="M51.6,136.2l19.9,25.2l-40.1,39l-27-34.1L51.6,136.2 M52.2,132.2L0,165.6l31.1,39.3l44.5-43.2L52.2,132.2
+				L52.2,132.2z"/>
+		</g>
+		<line class="st0" x1="31.1" y1="204.8" x2="58" y2="204.8"/>
+	</g>
+	<g>
+		<polyline class="st0" points="252,132.2 214.7,178.7 186.1,178.7 		"/>
+		<g>
+			<path class="st1" d="M252.5,136.2l47.1,30.1l-27,34.1l-40.1-39L252.5,136.2 M251.8,132.2l-23.3,29.4l44.5,43.2l31.1-39.3
+				L251.8,132.2L251.8,132.2z"/>
+		</g>
+		<line class="st0" x1="273" y1="204.8" x2="246" y2="204.8"/>
+	</g>
+	<g>
+		<polyline class="st0" points="52.1,74.1 89.4,27.6 118,27.6 		"/>
+		<g>
+			<path class="st1" d="M31.4,6l40.1,39L51.6,70.1L4.4,40L31.4,6 M31.1,1.5L0,40.8l52.2,33.4l23.3-29.4L31.1,1.5L31.1,1.5z"/>
+		</g>
+		<line class="st0" x1="31.1" y1="1.5" x2="58" y2="1.5"/>
+	</g>
+	<g>
+		<polyline class="st0" points="252,74.1 214.7,27.6 186.1,27.6 		"/>
+		<g>
+			<path class="st1" d="M272.7,6l27,34.1l-47.1,30.1l-19.9-25.2L272.7,6 M273,1.5l-44.5,43.2l23.3,29.4l52.2-33.4L273,1.5L273,1.5z"
+				/>
+		</g>
+		<line class="st0" x1="273" y1="1.5" x2="246" y2="1.5"/>
+	</g>
+</g>
+</svg>
