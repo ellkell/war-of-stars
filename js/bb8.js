@@ -32,7 +32,7 @@ var BB = (function(){
 			var bbHead = scene.getObjectByName('bb8Head');
 			var bbBody = scene.getObjectByName('bb8Body');
 			
-			var animOscY = function(obj, timing, amt,){
+			var animOscY = function(obj, timing, amt){
 				//console.log("AmtY: "+amt);
 				TweenLite.to(obj.rotation, timing, {directionalRotation:{y:"+="+amt+"_cw", useRadians: true}, ease:Power1.easeInOut, onComplete: function(){
 						
