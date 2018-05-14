@@ -98,7 +98,7 @@ var WeaponsFire = (function (){
 				var mid = new THREE.Vector3(
 					((startPt[i].x-endPos.x)/2),
 					((startPt[i].y-endPos.y)/2),
-					((startPt[i].z-endPos.z)/2),
+					((startPt[i].z-endPos.z)/2)
 				);
 				var extrudeSettings = {
 					steps: 2,
